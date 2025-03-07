@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Taxijakt Driver - Appcast</title>
+        <item>
+            <title>Version 1.4.7</title>
+            <description>- Minor bug fixes</description>
+            <pubDate>Fri, 7 Mar 2025 20:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=se.taxijakt.driver" sparkle:version="1.4.7" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
